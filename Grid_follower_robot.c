@@ -13,7 +13,6 @@
 #define Right_Sensor_PIN  GPIO_PIN_15
 #define Left_Sensor_PORT  GPIOA
 #define Left_Sensor_PIN   GPIO_PIN_4
-
 #define TRIG_PIN GPIO_PIN_13
 #define TRIG_PORT GPIOB
 #define ECHO_PIN GPIO_PIN_12
